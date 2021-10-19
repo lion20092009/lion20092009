@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lion20092009
 - 👀 I’m interested in economics and data science
-- 🌱 I’m currently learning git and python
+- 🌱 I’m currently learning Git and Python
 - 📫 How to reach me on Twitter @LbBost
 
 <!---
