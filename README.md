@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leon Bost
+- 👋 Hi, I’m Leon
 - 👀 I’m interested in economics and data science
 - 🌱 I’m currently learning Git and Python
 - 📫 How to reach me on Twitter: @LbBost 
